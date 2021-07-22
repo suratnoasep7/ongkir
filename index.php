@@ -12,6 +12,8 @@
 	  <div class="card-body">
 	    <h5 class="card-title">Bilangan Prima</h5>
 
+	    tes feature
+
 	    <?php
 
 	    	function isprime($number) {
